@@ -1,0 +1,7 @@
+{
+    "name": "parr",
+    "version": "0.1982",
+    "description": "Provides a basic API for Flickr",
+    "keywords": ["flickr", "photo"],
+    "author": "Philipp Naderer, http://naderer.biz"
+}
