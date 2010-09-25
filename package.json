@@ -3,5 +3,8 @@
     "version": "0.1982",
     "description": "Provides a basic API for Flickr",
     "keywords": ["flickr", "photo"],
-    "author": "Philipp Naderer, http://naderer.biz"
+    "author": "Philipp Naderer, http://naderer.biz",
+    "jars": [
+        "jars/simplecache.jar"
+    ]
 }
